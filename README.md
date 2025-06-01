@@ -1,4 +1,4 @@
-# Bulk Email Sender
+# Bulk Email Sender: https://bulk-email-sender-three.vercel.app
 
 This project is a simple Express.js application that allows you to send bulk emails using Nodemailer. It is designed to handle sending personalized emails to multiple recipients at once.
 
